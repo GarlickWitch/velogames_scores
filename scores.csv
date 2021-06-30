@@ -1,0 +1,392 @@
+stage_id,stage_name,team_id,name,user,score
+,OVERALL RACE,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,1928
+,OVERALL RACE,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,1622
+,OVERALL RACE,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,1548
+,OVERALL RACE,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,1380
+,OVERALL RACE,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,1299
+,OVERALL RACE,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,1269
+,OVERALL RACE,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,1269
+,OVERALL RACE,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,1241
+,OVERALL RACE,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,1228
+,OVERALL RACE,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,1212
+,OVERALL RACE,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,1182
+,OVERALL RACE,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,1059
+,OVERALL RACE,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,1046
+,OVERALL RACE,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,985
+,OVERALL RACE,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,942
+,OVERALL RACE,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,771
+,OVERALL RACE,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,488
+1,Raceday 1,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,563
+1,Raceday 1,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,547
+1,Raceday 1,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,539
+1,Raceday 1,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,527
+1,Raceday 1,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,520
+1,Raceday 1,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,517
+1,Raceday 1,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,509
+1,Raceday 1,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,496
+1,Raceday 1,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,481
+1,Raceday 1,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,434
+1,Raceday 1,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,408
+1,Raceday 1,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,406
+1,Raceday 1,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,377
+1,Raceday 1,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,360
+1,Raceday 1,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,350
+1,Raceday 1,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,296
+1,Raceday 1,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,132
+2,Raceday 2,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,721
+2,Raceday 2,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,686
+2,Raceday 2,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,522
+2,Raceday 2,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,516
+2,Raceday 2,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,506
+2,Raceday 2,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,475
+2,Raceday 2,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,435
+2,Raceday 2,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,415
+2,Raceday 2,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,410
+2,Raceday 2,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,390
+2,Raceday 2,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,370
+2,Raceday 2,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,363
+2,Raceday 2,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,361
+2,Raceday 2,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,355
+2,Raceday 2,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,280
+2,Raceday 2,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,200
+2,Raceday 2,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,99
+3,Raceday 3,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,331
+3,Raceday 3,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,316
+3,Raceday 3,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,301
+3,Raceday 3,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,273
+3,Raceday 3,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,248
+3,Raceday 3,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,222
+3,Raceday 3,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,218
+3,Raceday 3,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,216
+3,Raceday 3,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,213
+3,Raceday 3,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,198
+3,Raceday 3,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,179
+3,Raceday 3,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,169
+3,Raceday 3,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,89
+3,Raceday 3,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,81
+3,Raceday 3,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,68
+3,Raceday 3,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,45
+3,Raceday 3,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,39
+4,Raceday 4,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,386
+4,Raceday 4,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,264
+4,Raceday 4,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,238
+4,Raceday 4,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,198
+4,Raceday 4,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,183
+4,Raceday 4,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,170
+4,Raceday 4,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,168
+4,Raceday 4,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,150
+4,Raceday 4,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,146
+4,Raceday 4,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,140
+4,Raceday 4,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,139
+4,Raceday 4,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,115
+4,Raceday 4,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,106
+4,Raceday 4,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,95
+4,Raceday 4,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,87
+4,Raceday 4,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,62
+4,Raceday 4,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,50
+5,Raceday 5 (ITT),5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+5,Raceday 5 (ITT),6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+5,Raceday 5 (ITT),7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+5,Raceday 5 (ITT),9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+5,Raceday 5 (ITT),9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+5,Raceday 5 (ITT),116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+5,Raceday 5 (ITT),11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+5,Raceday 5 (ITT),13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+5,Raceday 5 (ITT),21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+5,Raceday 5 (ITT),5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+5,Raceday 5 (ITT),6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+5,Raceday 5 (ITT),79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+5,Raceday 5 (ITT),9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+5,Raceday 5 (ITT),9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+5,Raceday 5 (ITT),1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+5,Raceday 5 (ITT),11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+5,Raceday 5 (ITT),13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+6,Raceday 6,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+6,Raceday 6,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+6,Raceday 6,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+6,Raceday 6,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+6,Raceday 6,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+6,Raceday 6,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+6,Raceday 6,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+6,Raceday 6,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+6,Raceday 6,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+6,Raceday 6,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+6,Raceday 6,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+6,Raceday 6,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+6,Raceday 6,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+6,Raceday 6,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+6,Raceday 6,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+6,Raceday 6,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+6,Raceday 6,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+7,Raceday 7,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+7,Raceday 7,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+7,Raceday 7,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+7,Raceday 7,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+7,Raceday 7,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+7,Raceday 7,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+7,Raceday 7,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+7,Raceday 7,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+7,Raceday 7,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+7,Raceday 7,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+7,Raceday 7,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+7,Raceday 7,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+7,Raceday 7,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+7,Raceday 7,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+7,Raceday 7,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+7,Raceday 7,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+7,Raceday 7,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+8,Raceday 8,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+8,Raceday 8,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+8,Raceday 8,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+8,Raceday 8,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+8,Raceday 8,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+8,Raceday 8,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+8,Raceday 8,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+8,Raceday 8,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+8,Raceday 8,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+8,Raceday 8,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+8,Raceday 8,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+8,Raceday 8,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+8,Raceday 8,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+8,Raceday 8,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+8,Raceday 8,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+8,Raceday 8,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+8,Raceday 8,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+9,Raceday 9,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+9,Raceday 9,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+9,Raceday 9,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+9,Raceday 9,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+9,Raceday 9,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+9,Raceday 9,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+9,Raceday 9,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+9,Raceday 9,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+9,Raceday 9,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+9,Raceday 9,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+9,Raceday 9,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+9,Raceday 9,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+9,Raceday 9,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+9,Raceday 9,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+9,Raceday 9,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+9,Raceday 9,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+9,Raceday 9,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+10,Raceday 10,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+10,Raceday 10,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+10,Raceday 10,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+10,Raceday 10,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+10,Raceday 10,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+10,Raceday 10,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+10,Raceday 10,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+10,Raceday 10,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+10,Raceday 10,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+10,Raceday 10,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+10,Raceday 10,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+10,Raceday 10,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+10,Raceday 10,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+10,Raceday 10,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+10,Raceday 10,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+10,Raceday 10,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+10,Raceday 10,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+11,Raceday 11,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+11,Raceday 11,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+11,Raceday 11,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+11,Raceday 11,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+11,Raceday 11,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+11,Raceday 11,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+11,Raceday 11,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+11,Raceday 11,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+11,Raceday 11,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+11,Raceday 11,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+11,Raceday 11,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+11,Raceday 11,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+11,Raceday 11,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+11,Raceday 11,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+11,Raceday 11,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+11,Raceday 11,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+11,Raceday 11,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+12,Raceday 12,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+12,Raceday 12,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+12,Raceday 12,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+12,Raceday 12,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+12,Raceday 12,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+12,Raceday 12,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+12,Raceday 12,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+12,Raceday 12,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+12,Raceday 12,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+12,Raceday 12,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+12,Raceday 12,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+12,Raceday 12,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+12,Raceday 12,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+12,Raceday 12,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+12,Raceday 12,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+12,Raceday 12,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+12,Raceday 12,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+13,Raceday 13,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+13,Raceday 13,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+13,Raceday 13,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+13,Raceday 13,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+13,Raceday 13,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+13,Raceday 13,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+13,Raceday 13,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+13,Raceday 13,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+13,Raceday 13,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+13,Raceday 13,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+13,Raceday 13,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+13,Raceday 13,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+13,Raceday 13,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+13,Raceday 13,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+13,Raceday 13,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+13,Raceday 13,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+13,Raceday 13,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+14,Raceday 14,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+14,Raceday 14,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+14,Raceday 14,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+14,Raceday 14,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+14,Raceday 14,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+14,Raceday 14,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+14,Raceday 14,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+14,Raceday 14,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+14,Raceday 14,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+14,Raceday 14,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+14,Raceday 14,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+14,Raceday 14,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+14,Raceday 14,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+14,Raceday 14,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+14,Raceday 14,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+14,Raceday 14,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+14,Raceday 14,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+15,Raceday 15,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+15,Raceday 15,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+15,Raceday 15,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+15,Raceday 15,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+15,Raceday 15,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+15,Raceday 15,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+15,Raceday 15,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+15,Raceday 15,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+15,Raceday 15,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+15,Raceday 15,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+15,Raceday 15,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+15,Raceday 15,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+15,Raceday 15,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+15,Raceday 15,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+15,Raceday 15,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+15,Raceday 15,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+15,Raceday 15,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+16,Raceday 16,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+16,Raceday 16,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+16,Raceday 16,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+16,Raceday 16,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+16,Raceday 16,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+16,Raceday 16,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+16,Raceday 16,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+16,Raceday 16,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+16,Raceday 16,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+16,Raceday 16,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+16,Raceday 16,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+16,Raceday 16,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+16,Raceday 16,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+16,Raceday 16,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+16,Raceday 16,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+16,Raceday 16,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+16,Raceday 16,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+17,Raceday 17,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+17,Raceday 17,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+17,Raceday 17,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+17,Raceday 17,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+17,Raceday 17,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+17,Raceday 17,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+17,Raceday 17,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+17,Raceday 17,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+17,Raceday 17,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+17,Raceday 17,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+17,Raceday 17,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+17,Raceday 17,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+17,Raceday 17,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+17,Raceday 17,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+17,Raceday 17,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+17,Raceday 17,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+17,Raceday 17,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+18,Raceday 18,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+18,Raceday 18,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+18,Raceday 18,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+18,Raceday 18,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+18,Raceday 18,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+18,Raceday 18,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+18,Raceday 18,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+18,Raceday 18,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+18,Raceday 18,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+18,Raceday 18,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+18,Raceday 18,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+18,Raceday 18,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+18,Raceday 18,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+18,Raceday 18,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+18,Raceday 18,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+18,Raceday 18,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+18,Raceday 18,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+19,Raceday 19,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+19,Raceday 19,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+19,Raceday 19,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+19,Raceday 19,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+19,Raceday 19,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+19,Raceday 19,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+19,Raceday 19,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+19,Raceday 19,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+19,Raceday 19,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+19,Raceday 19,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+19,Raceday 19,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+19,Raceday 19,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+19,Raceday 19,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+19,Raceday 19,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+19,Raceday 19,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+19,Raceday 19,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+19,Raceday 19,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+20,Raceday 20 (ITT),13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+20,Raceday 20 (ITT),21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+20,Raceday 20 (ITT),5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+20,Raceday 20 (ITT),6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+20,Raceday 20 (ITT),7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+20,Raceday 20 (ITT),9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+20,Raceday 20 (ITT),9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+20,Raceday 20 (ITT),116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+20,Raceday 20 (ITT),11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+20,Raceday 20 (ITT),11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+20,Raceday 20 (ITT),13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+20,Raceday 20 (ITT),5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+20,Raceday 20 (ITT),6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+20,Raceday 20 (ITT),79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+20,Raceday 20 (ITT),9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+20,Raceday 20 (ITT),9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+20,Raceday 20 (ITT),1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+21,Raceday 21,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+21,Raceday 21,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+21,Raceday 21,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+21,Raceday 21,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+21,Raceday 21,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+21,Raceday 21,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+21,Raceday 21,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
+21,Raceday 21,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+21,Raceday 21,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+21,Raceday 21,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+21,Raceday 21,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+21,Raceday 21,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+21,Raceday 21,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+21,Raceday 21,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+21,Raceday 21,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+21,Raceday 21,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+21,Raceday 21,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+22,End-of-Tour Points,9e8fa90fba09b485f82396293819dc439bb,Sag Wagoneers,andrew MKE,0
+22,End-of-Tour Points,9ta5336886ee0b8c9f6a667c71ccb6f392F,The Go Go Boys,Whoosh!,0
+22,End-of-Tour Points,116eac9e55bca15ecf0fe1f3b013d0f7ccas,Les Sans Maillots,Sarah,0
+22,End-of-Tour Points,11e448a1be346e4f72c0cfac4bba233d065a,Never Go Full Polkadot,an_username,0
+22,End-of-Tour Points,13ka17bbb2fd0b5ed38f7cf5b9745b099a8M,The Witch`s Cloves,Hanne Garlick,0
+22,End-of-Tour Points,21x9f71a9db81a9b157bb9241ae6c05173el,Glass Blockx,Lost Planet of Merckx,0
+22,End-of-Tour Points,5v4f2d20651767184e3c099f0f94dd069do,Money or tricycle?,osrjv,0
+22,End-of-Tour Points,6s59108e94ac633df9d3f25270aa1f2b3ct,Hver er þetta?,Theros,0
+22,End-of-Tour Points,7s23fbf89f8add6166418a7fe958e5db17s,les abeilles,sixbees,0
+22,End-of-Tour Points,9s5958f281521a0081418c53188af91030s,Critical Race,Commandant,0
+22,End-of-Tour Points,1172bac393142c2a4ab50f0f76954d9e571J,Cancellara Culture Cycling Club,Jconley4297,0
+22,End-of-Tour Points,11hc16e3d6b73defffbc546a042dfa8b79bc,BTS (Bicycles: Three Stefans),Darla,0
+22,End-of-Tour Points,13l8bbb705e2a6ff86f8c5fb9147f8ff71am,la planche des belles hommes,katje,0
+22,End-of-Tour Points,5S5a93e7a24772ca2d8f06cd74cf9410d6A,Fenland Mountaineers,Al__S,0
+22,End-of-Tour Points,6c38690d94cad68fc8ab02f5e8e8d7e55cG,Pinot`s Goats,Allez-dric,0
+22,End-of-Tour Points,79c297664b1976c0618f2b715691361aa4d,The 3495s,dan3459,0
+22,End-of-Tour Points,9e349a9f71d5a40822985a7ab41e3d5e11g,Toledo Mud Hens,Garfooble,0
